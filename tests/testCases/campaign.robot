@@ -4,7 +4,6 @@ Resource                  ../keywords/keywordsCampaign.robot
 Suite Setup             Open The Browser
 Suite Teardown          Close Browser
 
-
 *** Test Case ***
 Make_A_Donation_In_Campaign
     Choose Campaign

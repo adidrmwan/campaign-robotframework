@@ -6,7 +6,6 @@ def intersection(arr1, arr2):
         if num1 not in num_checked:
             num_checked.add(num1)
             for num2 in arr2:
-                print(num2)
                 if num1 == num2:
                     same_values.add(num1)                   
     same_values_list = list(same_values)
