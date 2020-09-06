@@ -6,6 +6,6 @@
   - Robot framework
   - Selenium2Library
  
-# Intersction Function using Python
+# Intersection Function using Python
 # Query in MySQL
 
